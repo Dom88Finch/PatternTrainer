@@ -1,5 +1,7 @@
 Pattern Trainer — Privacy Policy
+
 Last updated: September 10, 2026
+
 Pattern Trainer ("the App") is an educational application designed to help users practise recognizing and understanding candlestick chart patterns.
 
 This Privacy Policy explains what information Pattern Trainer collects, how it is used, and how it is stored.
@@ -18,24 +20,28 @@ The candlestick pattern associated with the question
 Relevant historical return information associated with the training example
 The date and time of training attempts
 This information is used to provide statistics, track your progress, and improve the selection of future training questions.
+
 2. How Your Data Is Stored
+   
 Training progress is currently stored locally on your device using Apple's standard iOS storage facilities.
 Your training history is not uploaded to a Pattern Trainer server.
 
 Deleting the App may remove locally stored application data according to the behaviour of the operating system.
 
 3. AI-Powered Explanations
+   
 Pattern Trainer may use Apple's Foundation Models framework to generate educational explanations of candlestick patterns.
 When an explanation is requested, the App may provide the model with structured information about the training example, such as:
 
-Pattern name
-Pattern direction
-Pattern strength
-Relevant candle price data
-Previous candle price data
-Market trend
-Volatility
-Historical returns associated with the example
+- Pattern name
+- Pattern direction
+- Pattern strength
+- Relevant candle price data
+- Previous candle price data
+- Market trend
+- Volatility
+- Historical returns associated with the example
+
 Your answer and whether it was correct
 This information is provided to generate an educational explanation of the chart.
 Pattern Trainer does not intentionally provide your name, email address, contact information, or other personally identifying information to the model.
@@ -88,12 +94,13 @@ The "Last updated" date at the beginning of this document indicates when the pol
 If you have questions about this Privacy Policy or Pattern Trainer's privacy practices, please contact:
 [goal.aura.app@gmail.com]
 
+
 Summary
 Pattern Trainer is designed with a privacy-first approach:
-No account required
-No personal profile required
-Training progress stored locally
-No sale of personal information
-No intentional third-party advertising tracking
-AI explanations use structured training information
-No brokerage or financial-account access
+- No account required
+- No personal profile required
+- Training progress stored locally
+- No sale of personal information
+- No intentional third-party advertising tracking
+- AI explanations use structured training information
+- No brokerage or financial-account access
