@@ -54,14 +54,15 @@ Pattern Trainer does not currently maintain a remote account containing your tra
 
 Feedback and Bug Reports
 If you encounter a problem, please include:
-A short description of the problem
-What you were doing when it occurred
-What you expected to happen
-What actually happened
-Your iPhone/iPad model
-Your iOS/iPadOS version
-The Pattern Trainer app version
-Screenshots are helpful when reporting visual problems.
+- A short description of the problem
+- What you were doing when it occurred
+- What you expected to happen
+- What actually happened
+- Your iPhone/iPad model
+- Your iOS/iPadOS version
+- The Pattern Trainer app version
+- Screenshots are helpful when reporting visual problems.
+
 Contact
 For support, bug reports, or feedback:
 [goal.aura.app@gmail.com]
