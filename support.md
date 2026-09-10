@@ -1,6 +1,8 @@
 Pattern Trainer — Support
+
 Thanks for using Pattern Trainer.
 Pattern Trainer is an educational app designed to help you practise recognizing candlestick patterns, understand price action, and track your training performance.
+
 
 Getting Started
 Start Training
@@ -65,7 +67,7 @@ If you encounter a problem, please include:
 
 Contact
 For support, bug reports, or feedback:
-[goal.aura.app@gmail.com]
+goal.aura.app@gmail.com
 
 Feature Requests
 Pattern Trainer is actively evolving.
